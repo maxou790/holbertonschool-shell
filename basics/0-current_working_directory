@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd -l
-/holbertonschool-shell/basics    
+pwd -L /holbertonschool-shell/basics    
