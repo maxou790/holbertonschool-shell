@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd -d /holbertonschool-sheel/basics
+pwd -L /home/max/holbertonschool-shell/basics
