@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd $"ls-l" /holbertonschool-sheel/basics
+pwd $"ls" /holbertonschool-sheel/basics
