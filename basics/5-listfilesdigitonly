@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | egrep '^.{2}[0-9]'
+ls -al
