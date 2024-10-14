@@ -1,2 +1,2 @@
 #!/bin/bash
-echo home/max/holbertonschool-shell 
+echo "pwd" 
