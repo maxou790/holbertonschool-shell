@@ -1,2 +1,2 @@
 #!/bin/bash
-find=/basics/14-copy_html/html/files
+find=/basics/14-copy_html/tmp/ find "test_html" -type f -name "*html"
