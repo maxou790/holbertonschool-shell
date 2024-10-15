@@ -1,2 +1,2 @@
 #!/bin/bash
-FILE_NAME="imamafile" 
+FILE="/tmp/iamafile"
