@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -v /holbertonschool_shell/basics/ *.html holbertonschool-shell
