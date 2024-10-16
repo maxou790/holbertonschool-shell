@@ -1,3 +1,2 @@
 #!/bin/bash
-mv .move /tmp/u
- 
+mv .move /tmp/u 
