@@ -1,2 +1,2 @@
 #!/bin/bash
-mv .move_uppercase tmp/u
+mkdir -p tmp/u
