@@ -1,2 +1,2 @@
 #!/bin/bash
-mv move_uppercase tmp
+mv move_uppercase tmp/u
