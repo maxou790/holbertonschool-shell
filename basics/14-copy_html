@@ -1,2 +1,2 @@
-#!/bin/bash
-find=/basics/14-copy_html/tmp/ find "test_html" -type f -name "*html"
+#!bin/bash
+cp -u /tmp/html/ /holbertonschool-shell/basics/14-copy_html/
