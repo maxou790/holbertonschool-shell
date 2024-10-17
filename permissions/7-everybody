@@ -1,2 +1,3 @@
 #!/bin/bash
-touch hello chmod 640 hello 
+chmod 755 hello
+
