@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 711 folder1 folder2 folder3
+find . -type d -exec chmod a+x {} +
