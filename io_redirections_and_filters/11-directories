@@ -1,2 +1,2 @@
 #!/bin/bash
-directory_count=$(find . -type d | wc -l)
+dir_count=$(find . -mindepth 1 -type d | wc -l)
