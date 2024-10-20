@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Number of dir and sub dir" find . -maxdepth 1 -type d -exec echo | wc -l 
+echo "Number of dir and sub dir" find . -maxdepth 1 -type d . -exec echo | wc -l 
